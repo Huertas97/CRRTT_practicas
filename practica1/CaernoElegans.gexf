@@ -3,7 +3,7 @@
   <graph defaultedgetype="undirected" mode="static" name="CaernoElegans">
     <meta>
       <creator>NetworkX 2.3</creator>
-      <lastmodified>01/03/2020</lastmodified>
+      <lastmodified>02/03/2020</lastmodified>
     </meta>
     <nodes>
       <node id="AC3.3" label="AC3.3" />

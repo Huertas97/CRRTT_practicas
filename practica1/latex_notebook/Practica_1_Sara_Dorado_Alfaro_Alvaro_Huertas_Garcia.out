@@ -1,0 +1,17 @@
+\BOOKMARK [1][-]{section.1}{PR\301CTICA 1}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Autores:}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Fecha: 06/02/2020}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Apartado 1}{section.1}% 4
+\BOOKMARK [3][-]{subsubsection.1.3.1}{1. Representad el siguiente grafo dirigido mediante \(a\) una matriz de adyacencia y \(b\) una lista de adyacencia.}{subsection.1.3}% 5
+\BOOKMARK [3][-]{subsubsection.1.3.2}{2. Responded a las siguientes preguntas:}{subsection.1.3}% 6
+\BOOKMARK [2][-]{subsection.1.4}{Apartado 2: An\341lisis de una red de interacci\363n de prote\355nas medianteNetworkX.}{section.1}% 7
+\BOOKMARK [2][-]{subsection.1.5}{Apartado 3: Distribuci\363n del grado de los nodos}{section.1}% 8
+\BOOKMARK [2][-]{subsection.1.6}{Apartado 4: C\341lculo de par\341metros de grafos}{section.1}% 9
+\BOOKMARK [3][-]{subsubsection.1.6.1}{a\) degree\137centrality\(G\)}{subsection.1.6}% 10
+\BOOKMARK [3][-]{subsubsection.1.6.2}{b\) closeness\137centrality\(G\) \(cercan\355a\)}{subsection.1.6}% 11
+\BOOKMARK [3][-]{subsubsection.1.6.3}{c\) beteewnness\137centrality\(\)}{subsection.1.6}% 12
+\BOOKMARK [3][-]{subsubsection.1.6.4}{Ejemplos donde se compara ``closeness y betweenness'' de grafos aleatorios y redes de prote\355nas procedentes de STRING}{subsection.1.6}% 13
+\BOOKMARK [3][-]{subsubsection.1.6.5}{Conclusi\363n sobre los par\341metros ``clonesness y betweenness''}{subsection.1.6}% 14
+\BOOKMARK [3][-]{subsubsection.1.6.6}{d\) average\137clustering\(\)}{subsection.1.6}% 15
+\BOOKMARK [3][-]{subsubsection.1.6.7}{e\) El m\341ximo k para el cual existe un k core}{subsection.1.6}% 16
+\BOOKMARK [2][-]{subsection.1.7}{Comparaci\363n con grafos regulares}{section.1}% 17
